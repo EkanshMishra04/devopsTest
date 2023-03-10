@@ -17,7 +17,7 @@ spec:
           image: ekanshmishra/devops-docker-image
           imagePullPolicy: IfNotPresent
           ports:
-            - containerPort: 8080 
+            - containerPort: 8089 
 
 
 
